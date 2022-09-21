@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: purple;
+    text-decoration: wavy;
+}
+body{
+    background-image: url("images/bird.jpg");
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: chocolate;
+}
+ol li{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+a{
+    color: yellow;
+    list-style-type: none;
+}
